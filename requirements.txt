@@ -10,7 +10,7 @@ mkdocs-meta-descriptions-plugin
 mkdocs-minify-plugin
 mkdocs-glightbox
 mkdocs-open-in-new-tab
-#mkdocs-video
+mkdocs-video
 mkdocs-markmap
 # mkdocs-badges
 # mkdocs-spellcheck[all]
