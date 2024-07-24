@@ -1,6 +1,0 @@
-User-Agent: *
-Allow: *
-Allow: /
-Allow: /*
-Allow: sitemap.xml
-Disallow: /guides/contributing/examples/*
