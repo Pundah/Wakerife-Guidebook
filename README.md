@@ -16,7 +16,7 @@ These game guides have been collected from multiple sources to provide the
 #### Links
 
 - [![](https://img.shields.io/badge/Project%20Guides-Website-orange?style=flat-square)
-](https://allthemods.github.io/alltheguides)
+](https://pundah.github.io/Project-Guidebook/)
 - [![](https://img.shields.io/badge/Project%20Guides-Contribute-purple?style=flat-square)
 ](https://pundah.github.io/Project-Guidebook/guides/contributing/)
 - [![](https://img.shields.io/badge/Project%20Guides-Github-white?style=flat-square)
