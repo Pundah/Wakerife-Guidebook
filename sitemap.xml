@@ -1,202 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/404/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/404/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/about/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/about/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/about/alltheteam/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/about/contributors/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/about/allthetimeline/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/about/feedback/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/about/contributors/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/about/license/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/about/feedback/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/about/team/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/about/license/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/about/timeline/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/blog/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/blog/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/blog/posts/new/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/blog/posts/new/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/guides/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/guides/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/guides/biggerreactors/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/guides/biggerreactors/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/guides/kaimonickguides/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/guides/kaimonickguides/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/guides/translations/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/guides/integrateddynamics/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/guides/contributing/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/guides/integrateddynamics/infinitefluidtransfer/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/guides/contributing/examples/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/help/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/guides/contributing/examples/admonition/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/help/commands/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/guides/contributing/examples/annotations/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/help/configs/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/guides/contributing/examples/buttons/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/help/faq/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/guides/contributing/examples/code/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/help/java/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/guides/contributing/examples/contenttabs/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/help/lag/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/guides/contributing/examples/datatables/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/misc/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/guides/contributing/examples/diagrams/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/project-w/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/guides/contributing/examples/formatting/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/project-w/mod1/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pundah.github.io/Project-Guidebook/guides/contributing/examples/imagery/</loc>
-         <lastmod>2024-07-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pundah.github.io/Project-Guidebook/guides/integrateddynamics/</loc>
-         <lastmod>2024-07-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pundah.github.io/Project-Guidebook/guides/integrateddynamics/infinitefluidtransfer/</loc>
-         <lastmod>2024-07-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pundah.github.io/Project-Guidebook/help/</loc>
-         <lastmod>2024-07-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pundah.github.io/Project-Guidebook/help/backups/</loc>
-         <lastmod>2024-07-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pundah.github.io/Project-Guidebook/help/commands/</loc>
-         <lastmod>2024-07-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pundah.github.io/Project-Guidebook/help/configs/</loc>
-         <lastmod>2024-07-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pundah.github.io/Project-Guidebook/help/faq/</loc>
-         <lastmod>2024-07-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pundah.github.io/Project-Guidebook/help/java/</loc>
-         <lastmod>2024-07-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pundah.github.io/Project-Guidebook/help/lag/</loc>
-         <lastmod>2024-07-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pundah.github.io/Project-Guidebook/help/server/</loc>
-         <lastmod>2024-07-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pundah.github.io/Project-Guidebook/help/server/amp/</loc>
-         <lastmod>2024-07-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pundah.github.io/Project-Guidebook/misc/</loc>
-         <lastmod>2024-07-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pundah.github.io/Project-Guidebook/project-w/</loc>
-         <lastmod>2024-07-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pundah.github.io/Project-Guidebook/project-w/mod1/</loc>
-         <lastmod>2024-07-25</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pundah.github.io/Project-Guidebook/project-w/mod2/</loc>
+         <loc>https://pundah.github.io/Wakerife-Guidebook/project-w/mod2/</loc>
          <lastmod>2024-07-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
