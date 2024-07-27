@@ -42,7 +42,7 @@ theme:
     edit: material/pencil 
     view: material/eye
   favicon: assets/images/favicon.ico
-  logo: assets/images/atms.png
+  logo: assets/images/WakerifeBG.png
   font:
     text: "Nunito"
   palette:

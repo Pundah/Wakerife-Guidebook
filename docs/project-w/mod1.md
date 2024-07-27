@@ -16,4 +16,4 @@ Content.
 
 Content.
 
-> [modName](legacy CurseForge link)
+> [modName](https://www.curseforge.com/minecraft/modpacks/project-wakerife)

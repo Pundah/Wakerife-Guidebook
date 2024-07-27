@@ -5,7 +5,7 @@ description: Project W - Intro Description
 
 # Project W
 
-[![](img/Logo.png){.center}](https://legacy.curseforge.com/minecraft/modpacks/project-w)
+[![](../assets/images/WakerifeBG.png){.center}](https://www.curseforge.com/minecraft/modpacks/project-wakerife)
 
 
 ------------
