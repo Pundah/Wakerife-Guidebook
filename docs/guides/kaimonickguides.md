@@ -21,22 +21,6 @@ authors:
 
 ---
 
-## Applied Energistics 2
-
-=== "Part 1: The Basics"
-	
-	![](img/kaiAE2Guide1.png){.center}
-
-=== "Part 2: Intro to Autocrafting"
-	
-	![](img/kaiAE2Guide2.png){.center}
-
-=== "Part 3: P2P & Other Novelties"
-	
-	![](img/kaiAE2Guide3.png){.center}
-
----
-
 ## Pneumatic Craft
 
 ![](img/kaiPneumaticCraftGuide.png){.center}

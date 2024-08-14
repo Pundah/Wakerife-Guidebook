@@ -7,7 +7,7 @@ use_directory_urls: true
 copyright: Project-Wakerife-Guidebook | Made By <a href='https://github.com/Pundah' target='_blank' class='cauthor'>Pundah</a>
 strict: !ENV [ENABLE_STRICT, true]
 extra:
-  generator: true
+  generator: false
   homepage: /
   version:
     default: stable
