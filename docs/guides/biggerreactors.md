@@ -115,4 +115,4 @@ Something to note is that Modpack authors have the ability to add or modify mode
     | forge:redstone | 0.75 | 0.55 | 1.6 | 2.5 |
     | forge:ender | 0.9 | 0.75 | 2.0 | 2 |
 
-> Bigger Reactors | [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/biggerreactors)
+> Bigger Reactors | [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/biggerreactors) | Project Wakerife - [GitHub](https://github.com/Pundah) | Project Wakerife - [Discord](https://discord.gg/M4HQTQ9g9f)

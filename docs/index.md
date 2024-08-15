@@ -3,15 +3,14 @@ title: Welcome
 description: Guidebook For Project-Wakerife.
 ---
 
-# Welcome!
+# Wakerife Guidebook
 
-To the new **Project-Wakerife Guidebook**, by **Pundah**.
+Welcome to the **Project-Wakerife Guidebook**!
 
-This guide is currently a work in progress, so there will be missing/placeholder information.
-
-???+ Tip "Project-Wakerife Guides is only for Project-Wakerife"
+!!! info "This guide is currently a work in progress, so there will be missing/placeholder information."
+<!--- ???+ Tip "Project-Wakerife Guides is only for Project-Wakerife"
     Project-Wakerife has custom changes and additions, mostly recipes. This means it's only for the Project-Wakerife pack, and may not be the same for other packs. However, guides in the [Additional Guides](guides/README.md) should work for any pack with said mod.
-
+--->
 ## Intro
 
 Are you new to **Minecraft**, **Project-Wakerife**, or just need help getting started? Here you'll find some **Tips** and **Guides** on getting started with **Project-Wakerife**!
@@ -43,4 +42,4 @@ The most common launchers are [CurseForge](https://www.curseforge.com/download/a
 ------
 
 
-> Project-Wakerife | [GitHub](https://github.com/Pundah) | [Discord](https://discord.gg/M4HQTQ9g9f) 
+> Project Wakerife - [GitHub](https://github.com/Pundah) | Project Wakerife - [Discord](https://discord.gg/M4HQTQ9g9f)

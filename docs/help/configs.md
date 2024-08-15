@@ -27,13 +27,9 @@ Includes ranks (_hence name_), is alike **Group Manager**, **EssentialsEX**, **P
 
 More information can be found on FTB Wiki: [FTBRanks](https://feedthebeast.notion.site/FTB-Ranks-d56ec50cfa04412485ff0bf63d103b4d), [FTB Essentials](https://feedthebeast.notion.site/FTB-Essentials-f1650e409e91416d941d3167f9ec89f4)
 
-> **Config**: `world/serverconfig/ftbranks/ranks.snbt`
-
-## [No Fly Zone](https://legacy.curseforge.com/minecraft/mc-mods/no-fly-zone)
-
-In [Project-Wakerife](../project-w/index.md), a new mod was introduced to prohibit flight in certain dimensions.  This can be disabled.
-
-> **Config**: `world/serverconfig/noflyzone.snbt`
-
 ## F.A.Q
 {Placeholder}
+
+
+
+> Project Wakerife - [GitHub](https://github.com/Pundah) | Project Wakerife - [Discord](https://discord.gg/M4HQTQ9g9f)

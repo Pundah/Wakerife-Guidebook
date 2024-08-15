@@ -76,7 +76,7 @@ plugins:
   }
   - meta-descriptions
   - tags
-#  - mkdocs-video
+  - mkdocs-video
   - markmap
 #  - blog
 #  - autoref

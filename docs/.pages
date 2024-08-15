@@ -1,8 +1,8 @@
 nav:
 # - Blogs: /atg/blog
- - <b>Welcome</b>:
+ - <b>Home</b>:
    - Home: index.md
-   - Project Wakerife: project-w
+   - Mod Guides: mod-guides
 # - Misc: misc
  - Additional Guides : guides
  - Help: help

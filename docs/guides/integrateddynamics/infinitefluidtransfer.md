@@ -43,4 +43,4 @@ The Variable Card acts as a boolean true value to enable the **Export All Fluids
   <source src='../img/JgeZnCD.mp4' type='video/mp4'>
 </video>
 
-> [Integrated Dynamics](https://legacy.curseforge.com/minecraft/mc-mods/integrated-dynamics)
+> [Integrated Dynamics](https://legacy.curseforge.com/minecraft/mc-mods/integrated-dynamics) | Project Wakerife - [GitHub](https://github.com/Pundah) | Project Wakerife - [Discord](https://discord.gg/M4HQTQ9g9f)

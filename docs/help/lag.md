@@ -74,3 +74,4 @@ To enable, locate and open `world/serverconfigs/crashutilities-server.toml`. Ver
     ```
 
 
+> Project Wakerife - [GitHub](https://github.com/Pundah) | Project Wakerife - [Discord](https://discord.gg/M4HQTQ9g9f)

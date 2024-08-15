@@ -124,3 +124,4 @@ These can help both server and client with performance in,
     - `+UseTransparentHugePages`
 
     : Controversial feature but may be usable if you can not configure your host for real HugeTLBFS. Try adding, but it's extremely important you also have AlwaysPreTouch set. Otherwise, THP will likely hurt you. We have not measured how THP works for MC or its impact with AlwaysPreTouch, so this section is for the advanced users who want to experiment.
+> Project Wakerife - [GitHub](https://github.com/Pundah) | Project Wakerife - [Discord](https://discord.gg/M4HQTQ9g9f)

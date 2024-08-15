@@ -1,5 +1,5 @@
 # Miscellaneous
 
-Content that doesn't fit in other places, or have similarities with all packs. 
+Content that doesn't fit in other places. 
 
-> Project-W | [GitHub](https://github.com/Pundah) | [Discord](https://discord.gg/M4HQTQ9g9f) 
+> Project Wakerife - [GitHub](https://github.com/Pundah) | Project Wakerife - [Discord](https://discord.gg/M4HQTQ9g9f)

@@ -139,3 +139,5 @@ Currently not supported.
 Visit the FAQ of your specific pack to view it's FAQ!
 
 ---
+
+> Project Wakerife - [GitHub](https://github.com/Pundah) | Project Wakerife - [Discord](https://discord.gg/M4HQTQ9g9f)

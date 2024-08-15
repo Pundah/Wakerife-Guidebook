@@ -1,0 +1,26 @@
+---
+title: Accelerated Decay
+description: Accelerated Decay Guide
+authors: 
+ - Pundah
+comments: false
+---
+
+# Accelerated Decay
+![](img/accelerated_decay.png){.center}
+## Description
+???+ Quote "Curseforge Description"
+
+    === " "
+        ``` markdown
+        Leaves go bye-bye
+
+        Accelerated Decay is an alternative fast leaf decay concept where instead of actually ticking the leaf blocks rapidly, we just remove them as soon as possible. Our mod implements this logic in the most vanilla possible way by delaying our leave checking logic to allow the game to naturally mark the leaves ready for removal.
+        
+        One of the goals of Accelerated Delay was reduce the lag on clients & servers. We've achieved this by using a time based checking system and heavily reducing the particals and ticking logic on blocks.
+        ```
+## Mod Application
+
+This mod helps reduce lag on client and server. This allows leaves to despawn faster without putting additional stress on the game.
+
+> CurseForge: [Accelerated Decay](https://www.curseforge.com/minecraft/mc-mods/accelerated-decay) | Project Wakerife - [GitHub](https://github.com/Pundah) | Project Wakerife - [Discord](https://discord.gg/M4HQTQ9g9f)

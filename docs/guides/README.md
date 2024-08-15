@@ -14,4 +14,4 @@ You'll find various mods in the sidebar with tips on how they can be utilized!
 
 ---
 
-> Project-W | [GitHub](https://github.com/Pundah) | [Discord](https://discord.gg/M4HQTQ9g9f) 
+> Project Wakerife - [GitHub](https://github.com/Pundah) | Project Wakerife - [Discord](https://discord.gg/M4HQTQ9g9f)

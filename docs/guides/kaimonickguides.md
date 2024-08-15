@@ -42,3 +42,4 @@ authors:
 	![](img/kaiBeeAddendum.png){.center}
 
 ---
+> Project Wakerife - [GitHub](https://github.com/Pundah) | Project Wakerife - [Discord](https://discord.gg/M4HQTQ9g9f)

@@ -140,3 +140,6 @@ description: Known useful commands for most of ATM servers
         ```title="Teleport Player (Even Offline) to spawn"
         /cu unstuck <name>
         ```
+
+
+> Project Wakerife - [GitHub](https://github.com/Pundah) | Project Wakerife - [Discord](https://discord.gg/M4HQTQ9g9f)
