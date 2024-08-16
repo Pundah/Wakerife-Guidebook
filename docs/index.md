@@ -24,12 +24,12 @@ Allocating between **6-8GB** RAM is required for Project-Wakerife. This <u>must<
 ### Requirements
 
 - [x] An official **Mojang** / **Microsoft** account for **Java Edition**.
-- [x] A third-party [launcher](#launchers) that can download, install, and run Project-W.
+- [x] A third-party [launcher](#launchers) that can download, install, and run **Project Wakerife**.
 - [x] A PC with at least **12GB** or more **RAM**. :material-information-outline:{ title="Random Allocated Memory" }
 
 ### Launchers
 
-The most common launchers are [CurseForge](https://www.curseforge.com/download/app), [FTB App](https://www.feed-the-beast.com/ftb-app), [PolyMC](https://polymc.org/), [Prism](https://prismlauncher.org/), [ATLauncher](https://atlauncher.com/) and [GDLauncher](https://gdlauncher.com/en/). You will need one of these launchers to install packs. Sign into your **Microsoft** account and search for the modpack of your choice to install.
+The most common launchers are [CurseForge](https://www.curseforge.com/download/app), [FTB App](https://www.feed-the-beast.com/ftb-app), [Prism](https://prismlauncher.org/), [ATLauncher](https://atlauncher.com/) and [GDLauncher](https://gdlauncher.com/en/). You will need one of these launchers to install packs. Sign into your **Microsoft** account and search for the modpack of your choice to install.
 
 !!! Info "Allocation"
 
