@@ -30,4 +30,4 @@ comments: false
         * Insulated Sleeping Bags.
         ```
 
-> CurseForge: [Comforts]([link](https://www.curseforge.com/minecraft/mc-mods/comforts)) | Project Wakerife - [GitHub](https://github.com/Pundah) | Project Wakerife - [Discord](https://discord.gg/M4HQTQ9g9f)
+> CurseForge: [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) | Project Wakerife - [GitHub](https://github.com/Pundah) | Project Wakerife - [Discord](https://discord.gg/M4HQTQ9g9f)
